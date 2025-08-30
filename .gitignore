@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Configuration files (if sensitive)
+# .env
+
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
